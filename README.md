@@ -1,4 +1,4 @@
-## Procurando por atletas olímpicos? Essa aplicação te ajuda!
+## Desvendando Atletas - Imersão Dev com Google Gemini
 
 **O que ela faz?**
 
